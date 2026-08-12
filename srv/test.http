@@ -6,4 +6,8 @@
 #GET http://localhost:4004/rest/product/addition(num1=5, num2=10)
 
 
-GET http://localhost:4004/rest/product/MyFunction(category=234)
+#GET http://localhost:4004/rest/product/MyFunction(category=234)
+
+#GET http://localhost:4004/odata/v4/product-shop/Product
+
+GET http://localhost:4004/odata/v4/product-shop/Supplier
