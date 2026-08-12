@@ -25,3 +25,10 @@ Learn more at <https://cap.cloud.sap>.
 #important commands
 to start the server, inside the project folder run `cds watch`
 to create files to hold data run command `cds add data` after .csv data files are #created inside `\db` folder. then manually update data in those csv files
+
+
+Commands | Explaination
+---------|----------
+`cds watch` | cto start the server run this command inside the project folder
+`cds add data` | to create files to hold data. After .csv data files are created inside `\db` folder. then manually update data in those csv files
+
