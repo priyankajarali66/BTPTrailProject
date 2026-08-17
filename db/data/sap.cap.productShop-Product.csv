@@ -1,4 +1,5 @@
-ID,name,stock,price,category
-1,BMW,12,23445,1
-2,Audi,45,434324,2
-3,Maruti,23,344,3
+ID,name,category,cost_price,cost_stock,emission,rating
+1,BMW,1,21,34,20000,A+
+2,Audi,2,23,344,30000,B+
+3,Maruti,3,345,455,45000,C+
+4,KIA,4,45,445,50000,D+

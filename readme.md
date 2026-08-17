@@ -27,3 +27,4 @@ Commands | Explaination
 `cds watch` | cto start the server run this command inside the project folder
 `cds add data` | to create files to hold data. After .csv data files are created inside `\db` folder. then manually update data in those csv files
 
+## namespace --> is unique name for an application.
